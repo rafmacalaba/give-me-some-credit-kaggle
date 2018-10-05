@@ -37,6 +37,6 @@ kaggle competitions download -c GiveMeSomeCredit
 5. output logs can be found in output.logs
 
 #CREDITS
-pipeline was copied via https://github.com/avsolatorio/world-bank-pover-t-tests-solution which was originally written in python 2. so I made changes to be used it in python 3.
+pipeline reference https://github.com/avsolatorio/world-bank-pover-t-tests-solution which was originally written in python 2. so I made changes to be used it in python 3.
 
 Thanks to Aivin Solatorio https://github.com/avsolatorio for answering questions regarding the overall process.
